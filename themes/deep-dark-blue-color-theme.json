@@ -2083,7 +2083,7 @@
 		"badge.background": "#fdc500",
 		"badge.foreground": "#152238",
 		"terminal.foreground": "#8795ad",
-		"terminal.selectionBackground": "#604b00",
+		"terminal.selectionBackground": "#604b0061",
 		"terminalCursor.background": "#FAD000",
 		"terminalCursor.foreground": "#FAD000",
 		"terminal.border": "#23395d",
