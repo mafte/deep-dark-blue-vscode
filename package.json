@@ -3,7 +3,7 @@
     "displayName": "Deep Dark Blue",
     "description": "It is a professional theme based on a dark blue color palette that allows you to focus on what is really important: the code.",
     "version": "1.0.0",
-    "publisher": "",
+    "publisher": "mafte",
     "engines": {
         "vscode": "^1.67.0"
     },
